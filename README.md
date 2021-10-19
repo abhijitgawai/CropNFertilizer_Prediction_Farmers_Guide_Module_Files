@@ -18,6 +18,9 @@ Ongoing Project
 
 ## Fertilizer Prediction Module
 * [x] Copy of Prediction module Running 
+* [x] Running using tflite of fertilizer (input in code)
+* [x] text controller for n,p,k and dropdown for soil added
+
 
 
 
