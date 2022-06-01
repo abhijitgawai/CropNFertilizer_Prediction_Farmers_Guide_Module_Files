@@ -1,5 +1,5 @@
 # Major-Project
-Ongoing Project
+Final Year Project
 
 ## Home Screen 
  * [x] Home Screen added
